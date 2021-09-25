@@ -1,5 +1,3 @@
-/* eslint-disable vue/valid-v-for */
-
 <template>
   <h1 @click="increase">
     {{ count }}
